@@ -1,0 +1,1 @@
+I created this script to track HTTP 500 errors in an apache log file. Once a threshold is reached an email will be sent to my address. Please add this script to Windows task scheduler where Apache is installed
